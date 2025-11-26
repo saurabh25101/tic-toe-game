@@ -1,28 +1,22 @@
-# Tic-Tac-Toe Game
+ # Tic-Tac-Toe Game
 
-A simple **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**.
-
----
-
-## Features
-
-- Two-player game (X and O)
-- Dynamic game board with 9 cells
-- Highlights the winning pattern
-- Displays the current player's turn
-- Handles draw situations
-- Responsive design
+A simple and interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**.  
+Play the live version here 👇  
+🔗 **Live Demo:** https://tic-toe-game-iota-eight.vercel.app
 
 ---
 
-## How to Play
+## 🎮 Features
 
-1. Open `index.html` in your browser.
-2. Click on any empty cell to make your move.
-3. Players take turns: X goes first, then O.
-4. The game announces the winner or a draw when the board is full.
+- Two-player game (X vs O)
+- Current turn indicator
+- Winner detection with highlight
+- Draw detection
+- Clean and responsive UI
+- Instant reset option
+- No external libraries required
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
